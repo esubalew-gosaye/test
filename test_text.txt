@@ -1,0 +1,2 @@
+This is git version.
+Test for educational use.
